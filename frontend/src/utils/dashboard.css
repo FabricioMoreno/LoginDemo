@@ -1,0 +1,10 @@
+.dash-table{
+    text-align: center;
+}
+
+.header{
+    margin-bottom:3rem;
+    color: rgb(255, 255, 255);
+    background-color: rgb(36, 35, 109);
+    padding: 1rem;
+}
